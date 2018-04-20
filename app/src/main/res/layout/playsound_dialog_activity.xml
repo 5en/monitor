@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="300.0dip" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SeekBar android:id="@id/playProgressControlBar" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageButton android:id="@id/playsoundStart" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/btn_start" android:layout_alignParentLeft="true" android:contentDescription="启动播放" />
+        <ImageButton android:id="@id/playsoundStop" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/btn_stop_unable" android:layout_alignParentRight="true" android:contentDescription="停止播放" />
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageButton android:id="@id/playsoundCancel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/btn_play_cancel" android:layout_centerInParent="true" android:contentDescription="取消" />
+    </RelativeLayout>
+</LinearLayout>

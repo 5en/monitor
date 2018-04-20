@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="MyListItem">false</item>
+    <item type="id" name="edit_voiceFileName">false</item>
+    <item type="id" name="edit_voicFileTime">false</item>
+    <item type="id" name="edit_voiceFileItem_check">false</item>
+    <item type="id" name="btnStart">false</item>
+    <item type="id" name="btnStop">false</item>
+    <item type="id" name="btnBrowseVoiceFile">false</item>
+    <item type="id" name="playProgressControlBar">false</item>
+    <item type="id" name="playsoundStart">false</item>
+    <item type="id" name="playsoundStop">false</item>
+    <item type="id" name="playsoundCancel">false</item>
+    <item type="id" name="voiceFileName">false</item>
+    <item type="id" name="voicFileTime">false</item>
+    <item type="id" name="voiceFilesList">false</item>
+    <item type="id" name="function_info">false</item>
+    <item type="id" name="update_info">false</item>
+    <item type="id" name="author_info">false</item>
+    <item type="id" name="feedback">false</item>
+    <item type="id" name="edit_voiceFiles">false</item>
+    <item type="id" name="check_all">false</item>
+    <item type="id" name="uncheck_all">false</item>
+    <item type="id" name="check_inverse">false</item>
+    <item type="id" name="del_files">false</item>
+    <item type="id" name="cancel_edit">false</item>
+</resources>
